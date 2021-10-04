@@ -12,7 +12,7 @@ Contains functionality to create a `tf.data.Dataset` object from (1) a metadata 
 
 ## Installation
   ```{bash}
-  git clone https://git.brsc.local/machine-learning/tf_dataset.git
+  git clone https://github.com/ifrit98/tf_dataset.git
   cd tf_dataset && pip install .
   ```
 
@@ -59,10 +59,10 @@ df = construct_metadata("./data", create_targets=False, targets=[0,0,1,2])
 df = construct_metadata("./data")
 print(df.head())
 >>>                                             filepath      class  target  num_classes
->>> 0  C:\internal\sam\tf_dataset\data\1561965276.252...  passenger       0            4
->>> 1  C:\internal\sam\tf_dataset\data\1561970414.69_...  passenger       0            4
->>> 2  C:\internal\sam\tf_dataset\data\1561971147.625...      cargo       1            4
->>> 3  C:\internal\sam\tf_dataset\data\1561971697.731...        tug       2            4
+>>> 0  C:\internal\tf_dataset\data\1561965276.252...  passenger       0            4
+>>> 1  C:\internal\tf_dataset\data\1561970414.69_...  passenger       0            4
+>>> 2  C:\internal\tf_dataset\data\1561971147.625...      cargo       1            4
+>>> 3  C:\internal\tf_dataset\data\1561971697.731...        tug       2            4
 
 ds = signal_dataset(df)
 ```
@@ -304,5 +304,6 @@ Go to the maintainers: [@bares, @stgeorge] for bug reports, and usage questions 
 
 Pull requests welcome!
 
-#   t f _ d a t a s e t  
- 
+#� �t�f�_�d�a�t�a�s�e�t�
+�
+�
