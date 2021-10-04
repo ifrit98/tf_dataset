@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+pytest
+soundfile
+db-sqlite3
+tensorflow==2.5.0
+ipython

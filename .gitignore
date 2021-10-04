@@ -1,0 +1,5 @@
+/records
+__pycache__
+/__py_cache__
+*.sqlite
+*.sqlite-*
