@@ -300,10 +300,6 @@ pytest /tf_dataset/test.py
 ```
 
 ### maintainers
-Go to the maintainers: [@bares, @stgeorge] for bug reports, and usage questions that aren't answered here.
+Go to the maintainers: [@ifrit98] for bug reports, and usage questions that aren't answered here.
 
 Pull requests welcome!
-
-#� �t�f�_�d�a�t�a�s�e�t�
-�
-�
